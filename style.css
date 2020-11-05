@@ -1,0 +1,12 @@
+p.t{
+    font-weight: bold;
+}
+ul.l1{
+    list-style-type: circle;
+}
+ol.l2{
+    list-style-type: upper-roman;
+}
+ol.l3{
+    list-style-type: lower-alpha;
+}
